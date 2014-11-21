@@ -10,7 +10,6 @@ namespace GotHubDeleteMe
         public MainWindow()
         {
             InitializeComponent();
-
             DataContext = this;
         }
     }
