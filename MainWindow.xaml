@@ -4,7 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         
-		<Button Width="120" Height="50">
+		<Button Width="120" Height="50" VerticalAlignment="Top">
 			Test
 		</Button>
     </Grid>
